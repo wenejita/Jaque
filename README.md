@@ -14,7 +14,7 @@ En Iniciar Sesión ingresar con:
 Usuario jaque@email.com
 Password jaque
 
-Liga de Informe y Usuarios disponible
+Liga de Informe (inconcluso) y Usuarios disponible
 
 
 

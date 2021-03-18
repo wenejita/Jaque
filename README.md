@@ -1,6 +1,22 @@
 # ProyectoJaque
 
+Proyecto para Evaluación de Conocimientos Técnicos
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.5.
+Versiones:
+@angular/cli                    11.2.5
+Nodejs                          14.16.0 
+
+## Cómo iniciar
+Ir a la liga proporcionada
+
+En Iniciar Sesión ingresar con:
+Usuario jaque@email.com
+Password jaque
+
+Liga de Informe y Usuarios disponible
+
+
 
 ## Development server
 

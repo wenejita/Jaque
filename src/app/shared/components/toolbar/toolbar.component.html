@@ -1,6 +1,6 @@
 <mat-toolbar color="">
   <a routerLink="/">
-    <mat-icon aria-hidden="false" aria-label="Example home icon">home</mat-icon>
+    <mat-icon aria-hidden="false" >home</mat-icon>
     Indigo</a>
     <span class="example-spacer"></span>
   <a routerLink="/informe" routerLinkActive="active">
@@ -11,13 +11,9 @@
     <button mat-button>Usuarios</button>
   </a>
 
-  <a >
-    <button mat-button>Cerrar Sesión</button>
+  <a routerLink="/login" routerLinkActive="active">
+    <button mat-button>Iniciar Sesión</button>
   </a>
 
-  <ng-template #showLogin>
-    <a routerLink="/login" routerLinkActive="active">
-      <button mat-button>Iniciar Sesión</button>
-    </a>
-  </ng-template>
+
 </mat-toolbar>
